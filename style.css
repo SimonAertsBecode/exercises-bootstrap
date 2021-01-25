@@ -1,0 +1,39 @@
+* {
+    border-radius: 4px;
+}
+
+.row{
+    border: solid 1px rgb(0, 0, 0);
+    background-color: #cf72e7;
+}
+
+.col {
+    border: solid 1px rgb(0, 0, 0);
+    background-color: #cf72e7;
+}
+
+#row1 div{
+    border: solid 1px rgb(0, 0, 0);
+    text-align: center;
+}
+
+#row2 div{
+    border: solid 1px rgb(0, 0, 0);
+}
+
+#row3 div{
+    border: solid 1px rgb(0, 0, 0);
+}
+
+#nouvel,
+#exercice {
+    display: inline-block;
+    width:49%;
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
