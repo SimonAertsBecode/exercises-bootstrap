@@ -1,0 +1,15 @@
+
+#bloc_1 div {
+    border: solid 1px black;
+}
+
+#bloc_2 div {
+    border: solid 1px black;
+}
+
+#bloc{
+ display: flex;
+ flex-direction: row;
+ padding: 0px;
+ margin:0px;
+}
